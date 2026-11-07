@@ -30,7 +30,7 @@ function App() {
   return (
     <div style={{ fontFamily: 'Orbitron', padding: '20px', backgroundColor: '#111', minHeight: '100vh' }}>
       <h1 style={{ textAlign: 'center', color: '#0ff', textShadow: '0 0 10px rgba(0, 255, 255, 0.7), 0 0 20px rgba(0, 255, 255, 0.4), 0 0 30px rgba(0, 255, 255, 0.2)', letterSpacing: '2px' }}>
-        Catálogo Pokédex
+        Catálogo Pokédex prueba 1
       </h1>
 
       <div style={{ textAlign: 'center', marginBottom: '20px' }}>
