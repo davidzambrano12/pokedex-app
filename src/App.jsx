@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div style={{ fontFamily: 'sans-serif', padding: '20px', backgroundColor: '#f8fafc', minHeight: '100vh' }}>
-      <h1 style={{ textAlign: 'center', color: '#0f172a' }}>Catálogo Pokédex johan normal</h1>
+      <h1 style={{ textAlign: 'center', color: '#0f172a' }}>Catálogo Pokédex johan normal gei</h1>
 
       <div style={{ textAlign: 'center', marginBottom: '20px' }}>
         <input
